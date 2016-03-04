@@ -1,0 +1,3 @@
+>> ./rda.sh -vSCRP WLS OS (for Linux)
+or
+>> rda_win.exe -vSCRP WLS OS (for Windows) 
